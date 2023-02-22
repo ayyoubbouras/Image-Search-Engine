@@ -20,9 +20,10 @@ construire un prototype d’un système de recherche d’images par le contenu.
 
 #### Comment ca fontionne 
 
-##### Remarque 
 ceci est formé sur un ensemble de données spécifique et les index générés à l'intérieur de répertoire "Indexes" ne peuvent pas fonctionner avec votre propre ensemble de données.
-vous devez donc générer vos propres index pour chaque type d'index mentionné ci-dessous en executant les fichers python suivants :
+vous devez donc générer vos propres index pour chaque type d'index mentionné ci-dessous en executant les fichers python qui se traouve dans le dossier
+/Generer_les_index
+
 
 Apres vous devez juste executer le ficher TP2_traitemnt.py : python TP_traitemnt.py 
 
