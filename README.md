@@ -18,7 +18,7 @@ construire un prototype d’un système de recherche d’images par le contenu.
 #### Resultat
 <p align="center"><img width="40%" src="scroll1.png" /></p>
 
-#### Commest ca fontionee 
+#### Commest ca fontionne 
 
 juste run le ficher TP2_traitemnt.py : python TP_traitemnt.py 
 
